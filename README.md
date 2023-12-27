@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Ladzani Fabian Bengane. I'm currently on a path to being fullstack web developer. based in Gauteng,South Africa</h3>
+<h3 align="left">Hi 👋! My name is Ladzani Fabian Bengane. I'm currently on a path to being a fullstack web developer. Based in Gauteng,South Africa.</h3>
 
 ###
 
