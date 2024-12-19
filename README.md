@@ -2,7 +2,6 @@
 <div align="center">👋Hi there</div><br></br> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ladzi031&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&card_width=320" height="165" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=ladzi031&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=320&card_height=165" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ladzi031&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="165" alt="languages graph"  />
 </div>
 
