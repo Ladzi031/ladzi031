@@ -17,19 +17,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
   <img width="12" />
@@ -37,5 +27,4 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
 </div>
